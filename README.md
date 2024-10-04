@@ -1,4 +1,4 @@
-<h1 align="center">This is Elena</h1>
+<h1 align="center">This is Elena!</h1>
 
 - 🌱 I’m currently learning **Data Science**
 
