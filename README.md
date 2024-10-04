@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m I am passionate about **watching newatching series on Netflix and doing Zumba**
-
-- 💬 Ask me about **any good series | web development | data**
+- 👯 I’m I passionate about **watching new series on Netflix and doing Zumba**
 
 - 📫 How to reach me **elena.canocas@gmail.com**
 
-- ⚡ Fun fact **I started as a web developer but then discovered my passion for data.**
+- ⚡ Fun fact ** I started as a web developer, but later discovered my passion for data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
