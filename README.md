@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m I passionate about **watching new series on Netflix and doing Zumba**
+- 👯 I’m passionate about **watching new series on Netflix and doing Zumba**
 
 - 📫 How to reach me: **elena.canocas@gmail.com**
 
