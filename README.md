@@ -4,9 +4,9 @@
 
 - 👯 I’m I passionate about **watching new series on Netflix and doing Zumba**
 
-- 📫 How to reach me **elena.canocas@gmail.com**
+- 📫 How to reach me: **elena.canocas@gmail.com**
 
-- ⚡ Fun fact ** I started as a web developer, but later discovered my passion for data.**
+- ⚡ Fun fact: **I started as a web developer, but later discovered my passion for data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
