@@ -1,12 +1,6 @@
 <h1 align="center">This is Elena!</h1>
 
-- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m passionate about **watching new series on Netflix and doing Zumba**
-
-- 📫 How to reach me: **elena.canocas@gmail.com**
-
-- ⚡ Fun fact: **I started as a web developer, but later discovered my passion for data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
